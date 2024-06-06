@@ -31,11 +31,25 @@ El método putIsPalindromo verifica si la cadena es un palíndromo, calcula la l
 ## Descarga 
 
 Descarga la carpeta del repositorio en tu computador 
+
+
+
 ![image](https://github.com/jfpaezl/ejercicio-logica-Java/assets/108756151/236b8669-442e-41f2-bc37-aeb240bca3e5)
 
 Abre la carpeta en cualquier edictor de codigo que soporte Java 
+
+- Instala las dependencias del pom.xml
+1 abre la terminal en la direccion donde se aloja el proyecto y escribe el siguiente comando.
+```bash
+    mvn install
+```
+
 En mi caso uso Visual Studio Code
+
+
 ![image](https://github.com/jfpaezl/ejercicio-logica-Java/assets/108756151/c485d857-7650-422e-b129-bc0b4395da5d)
+
+
 
 inicializa el api en el archivo Ejercicio1Application.java donde marca la flecha o donde esta resaltado en rojo 
 
