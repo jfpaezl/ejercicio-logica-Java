@@ -39,7 +39,7 @@ Descarga la carpeta del repositorio en tu computador
 Abre la carpeta en cualquier edictor de codigo que soporte Java 
 
 - Instala las dependencias del pom.xml
-1 abre la terminal en la direccion donde se aloja el proyecto y escribe el siguiente comando.
+- Abre la terminal en la direccion donde se aloja el proyecto y escribe el siguiente comando.
 ```bash
     mvn install
 ```
