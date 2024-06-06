@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación Spring Boot que proporciona una API REST para verificar si una cadena es un palíndromo. Un palíndromo es una palabra, frase, número u otra secuencia de caracteres que se lee igual hacia adelante que hacia atrás, ignorando los espacios, la puntuación y las diferencias de mayúsculas y minúsculas
 
-# Controlador 
+## Controlador 
 
 El proyecto tiene un controlador, PruebaController, que maneja las solicitudes a la ruta /api/palindromo. Este controlador tiene un método, putIsPalindromo, que acepta una solicitud POST con un cuerpo JSON que contiene la cadena a verificar.
 
@@ -23,12 +23,12 @@ El método putIsPalindromo verifica si la cadena es un palíndromo, calcula la l
 }
 ```
 
-# Requisitos
+## Requisitos
 
 - Java 8 o superior
 - Maven
 
-# Descarga 
+## Descarga 
 
 Descarga la carpeta del repositorio en tu computador 
 ![image](https://github.com/jfpaezl/ejercicio-logica-Java/assets/108756151/236b8669-442e-41f2-bc37-aeb240bca3e5)
